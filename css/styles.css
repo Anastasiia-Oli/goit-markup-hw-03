@@ -287,8 +287,6 @@ img {
 
 /*#region footer*/
 .foot-container {
-  display: flex;
-  flex-direction: column;
 }
 
 .foot-section {
